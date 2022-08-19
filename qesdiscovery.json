@@ -129,6 +129,19 @@
       "FR" : "Politique de signature pour des signatures électroniques qualifiées. Ces signatures ont la même valeur qu'une signature manuscrite.",
       "NL" : "Handtekeningbeleid voor gekwalificeerde elektronisch handtekeningen. Deze handtekeningen hebben dezelfde legale waarde als een handgeschreven handtekening."
     }
+  }, {
+    "oid" : "1.3.6.1.4.1.49274.1.1.5.1.2",
+    "ref" : "1.3.6.1.4.1.49274.1.1.5.1.2",
+    "url" : "https://www.itsme-id.com/content-assets/53388/1652270326-compl_pol_testsignaturepolicy-version-1-2.pdf",
+    "status" : "ENABLED",
+    "sigDigest" : "a182422a72b8c4985b5d8ef1351caac4baf013ddf3c875099198b97074109f248691bd0100f36076e79b1d94eb6207a40f80e50a0e17166880c4ed20376c34ea",
+    "sigDigestAlg" : "SHA512",
+    "text" : {
+      "DE" : "Signaturrichtlinie für Signaturen, die nur zum Testen verwendet werden und den Unterzeichner nicht an irgendetwas binden.",
+      "EN" : "Signature Policy for signatures that are only used for testing and do not bind the signer to anything.",
+      "FR" : "Politique de signature pour les signatures qui ne sont utilisées que pour tester et ne lient pas le signataire.",
+      "NL" : "Handtekeningbeleid voor handtekeningen die enkel voor testdoeleinden gebruikt worden en de ondertekenaar tot niets verbinden."
+    }
   } ],
   "commitment_types_supported" : [ {
     "oid" : "1.3.6.1.4.1.49274.1.2.1",
