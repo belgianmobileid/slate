@@ -142,6 +142,19 @@
       "FR" : "Politique de signature pour les signatures qui ne sont utilisées que pour tester et ne lient pas le signataire.",
       "NL" : "Handtekeningbeleid voor handtekeningen die enkel voor testdoeleinden gebruikt worden en de ondertekenaar tot niets verbinden."
     }
+  }, {
+    "oid" : "1.3.6.1.4.1.49274.1.1.7.2.0",
+    "ref" : "1.3.6.1.4.1.49274.1.1.7.2.0",
+    "url" : "https://www.itsme-id.com/content-assets/53388/1662634565-compl_pol_genericqualifiedsignaturepolicy-2-0.pdf",
+    "status" : "ENABLED",
+    "sigDigest" : "c15df94f133c559ab5b37bbae5536e888efc3c5c36adabe391f99e540ed0b121",
+    "sigDigestAlg" : "SHA256",
+    "text" : {
+      "DE" : "Signaturrichtlinien für qualifizierte elektronische Signaturen. Diese Unterschriften haben den selben rechtlichen Wert wie eine handschriftliche Unterschrift.",
+      "EN" : "Signature Policy for qualified electronic signatures. These signatures have the same legal value as a handwritten signature.",
+      "FR" : "Politique de signature pour des signatures électroniques qualifiées. Ces signatures ont la même valeur qu'une signature manuscrite.",
+      "NL" : "Handtekeningbeleid voor gekwalificeerde elektronisch handtekeningen. Deze handtekeningen hebben dezelfde legale waarde als een handgeschreven handtekening."
+    }
   } ],
   "commitment_types_supported" : [ {
     "oid" : "1.3.6.1.4.1.49274.1.2.1",
