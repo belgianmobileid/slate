@@ -1,4 +1,4 @@
-{
+ {
   "sign_policy_templates_supported" : [ {
     "oid" : "1.3.6.1.4.1.49274.1.1.5.1.0",
     "ref" : "1.3.6.1.4.1.49274.1.1.5.1.0",
@@ -147,8 +147,8 @@
     "ref" : "1.3.6.1.4.1.49274.1.1.7.2.0",
     "url" : "https://www.itsme-id.com/content-assets/53388/1662634565-compl_pol_genericqualifiedsignaturepolicy-2-0.pdf",
     "status" : "ENABLED",
-    "sigDigest" : "c15df94f133c559ab5b37bbae5536e888efc3c5c36adabe391f99e540ed0b121",
-    "sigDigestAlg" : "SHA256",
+    "sigDigest" : "129d583252cc88da39dae76fa07c7bb0b71b1a51f424629ca60bd6d768963a8fb4579f688c6228d14603739e39f9b771f8ce4c29c40259b3efe76bfc44fc2feb",
+    "sigDigestAlg" : "SHA512",
     "text" : {
       "DE" : "Signaturrichtlinien für qualifizierte elektronische Signaturen. Diese Unterschriften haben den selben rechtlichen Wert wie eine handschriftliche Unterschrift.",
       "EN" : "Signature Policy for qualified electronic signatures. These signatures have the same legal value as a handwritten signature.",
