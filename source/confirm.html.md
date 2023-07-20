@@ -471,9 +471,9 @@ Values | Returned when requested | Description
 **place of Birth - country** | MAY NOT | Returns user's place of birth, represented as a string.
 **eid** | SHALL always | Returns user's Belgian ID document information. 
 **issuance_locality**  | MAY NOT | Returns user's Belgian ID document issuance locality, represented as a string.
-**validity_from** | SHALL always | Returns user's Belgian ID document issuance date, represented as a string in YYYY-MM-DDThh:mm:ss date format specified by ISO 8601.
-**validity_to** | SHALL always | Returns user's Belgian ID document expiry date, represented as a string in YYYY-MM-DDThh:mm:ss date format specified by ISO 8601.
-**read_date** | SHALL always | Returns user's Belgian ID card data extraction date, represented as a string in YYYY-MM-DDThh:mm:ss date format specified by ISO 8601.
+**validity_from** | MAY NOT | Returns user's Belgian ID document issuance date, represented as a string in YYYY-MM-DDThh:mm:ss date format specified by ISO 8601.
+**validity_to** | MAY NOT | Returns user's Belgian ID document expiry date, represented as a string in YYYY-MM-DDThh:mm:ss date format specified by ISO 8601.
+**read_date** | MAY NOT | Returns user's Belgian ID card data extraction date, represented as a string in YYYY-MM-DDThh:mm:ss date format specified by ISO 8601.
 **national_number** | SHALL always | Returns user's Belgian unique identification number, represented as a string with 11 digits in the form YY.MM.DD-xxx.cd where YY.MM.DD is the birthdate of the person, xxx a sequential number (odd for males and even for females) and cd a check-digit. Some exceptions could apply.
 **os** | MAY NOT | The device operating system. The returned values will be <i>"ANDROID"</i> or <i>"iOS"</i>
 **appName** | MAY NOT | The application name.
