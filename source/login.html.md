@@ -11,7 +11,7 @@ toc_footers:
 search: true
 ---
 # 1. Introduction
-<b>This documentation is deprecated. Please refer to it ONLY if you are still our version 1 OIDC interface. Any new partner will be using our version 2, which is documented on <a href="https://belgianmobileid.github.io/doc/authentication/">https://belgianmobileid.github.io/doc/authentication/</a>.</b>
+<b>This documentation is deprecated. Please refer to it ONLY if you are still using our version 1 OIDC interface. Any new partner will be using our version 2, which is documented on <a href="https://belgianmobileid.github.io/doc/authentication/">https://belgianmobileid.github.io/doc/authentication/</a>.</b>
 
 itsme® is a trusted identity provider allowing partners to use verified identities for authentication and authorization on web desktop, mobile web and mobile applications. 
 
