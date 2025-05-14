@@ -1,0 +1,5 @@
+<https://cms.dibbs.be/profiles/Dibbs.ttl>
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Agent> ;
+    <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/solid/interop#Application> ;
+    <http://www.w3.org/2004/02/skos/core#prefLabel> "Test itsme partner" ;
+    <http://www.w3.org/ns/solid/terms#oidcIssuer> <https://interop-auth.uat.itsme.services> .
